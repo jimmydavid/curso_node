@@ -1,4 +1,4 @@
-const express = require("express");
+/* const express = require("express");
 const app = express();
 const routerConfig = require('./routes/index.routes');
 
@@ -9,4 +9,4 @@ const configRouter = (app) => {
 
 configRouter(app);
 
-module.exports = app;
+module.exports = app; */
